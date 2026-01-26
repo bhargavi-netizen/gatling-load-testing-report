@@ -1,4 +1,4 @@
-# gatling-load-testing-report
+# Gatling-Load-Testing-Report
 
 # Company : * CODETECH IT SOLUTIONS
 
