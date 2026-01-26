@@ -64,3 +64,13 @@ The load testing exercise confirms that the tested application performs reliably
 
 ## output windows
 
+# graph1
+![Image](https://github.com/user-attachments/assets/ee5a0da3-35e1-45c5-afd9-b552cbdb999d)
+
+
+# graph2
+![Image](https://github.com/user-attachments/assets/aa4113ac-c437-4669-992e-f4e7db17938b)
+
+
+# graph3
+![Image](https://github.com/user-attachments/assets/b567f0e1-805a-4f1a-afec-07e10d8c7554)
