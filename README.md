@@ -1,14 +1,14 @@
 # gatling-load-testing-report
 
-#Company : *CODETECH IT SOLUTIONS
+# Company : * CODETECH IT SOLUTIONS
 
-*Intern Name: *Kota Vijaya Bhargavi
+* Intern Name: * Kota Vijaya Bhargavi
 
-*Intern Id: * CTIS2146
+* Intern Id: * CTIS2146
 
-*Domain :* Software Testing
+* Domain :* Software Testing
 
-* Duration: *4weeks
+* Duration: * 4weeks
 
 * Mentor: * Neela Santhosh
 
