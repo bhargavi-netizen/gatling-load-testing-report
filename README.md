@@ -65,7 +65,7 @@ The load testing exercise confirms that the tested application performs reliably
 ## output windows
 
 # graph1
-
+![Image](https://github.com/user-attachments/assets/267bde5a-42c1-47ad-8823-07758902cff2)
 
 
 # graph2
